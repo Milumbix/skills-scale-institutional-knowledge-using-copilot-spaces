@@ -228,10 +228,10 @@ Last Updated: [Date]
 
 Training:        [X%] ██████████░░░░ (Target: 80%)
 Active Users:    [X%] ████████░░░░░░ (Target: 70%)
-User Sat (1-5):  [X.X] ⭐⭐⭐⭐☆ (Target: 4.0)
-Support Tickets: [X] (Trend: ↓ / → / ↑)
+User Sat (1-5):  [X.X] (Target: 4.0)
+Support Tickets: [X] (Trend: Down / Flat / Up)
 
-Status: 🟢 On Track / 🟡 At Risk / 🔴 Off Track
+Status: Green - On Track / Yellow - At Risk / Red - Off Track
 ```
 
 ---

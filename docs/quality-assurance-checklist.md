@@ -242,12 +242,12 @@ Use this template for pre-release go/no-go meeting:
 
 | Metric | Target | Actual | Status |
 |--------|--------|--------|--------|
-| Test coverage (critical flows) | ≥ 90% | [X%] | ✅ / ⚠️ / ❌ |
-| P0 defects | 0 | [X] | ✅ / ⚠️ / ❌ |
-| P1 defects | 0 | [X] | ✅ / ⚠️ / ❌ |
-| Regression tests passing | 100% | [X%] | ✅ / ⚠️ / ❌ |
-| Performance (response time) | < 2s | [Xs] | ✅ / ⚠️ / ❌ |
-| Security vulnerabilities (critical) | 0 | [X] | ✅ / ⚠️ / ❌ |
+| Test coverage (critical flows) | ≥ 90% | [X%] | Pass / Warn / Fail |
+| P0 defects | 0 | [X] | Pass / Warn / Fail |
+| P1 defects | 0 | [X] | Pass / Warn / Fail |
+| Regression tests passing | 100% | [X%] | Pass / Warn / Fail |
+| Performance (response time) | < 2s | [Xs] | Pass / Warn / Fail |
+| Security vulnerabilities (critical) | 0 | [X] | Pass / Warn / Fail |
 
 ### Go/No-Go Criteria
 
