@@ -41,7 +41,23 @@ The following documents provide detailed guidance on each aspect of the OctoAcme
    How to conduct retrospectives, capture learnings, and implement action items for continuous improvement.
 
 8. **[Roles and Personas](./octoacme-roles-and-personas.md)**  
-   Detailed definitions of roles, responsibilities, goals, and typical communication patterns for each persona.
+   Detailed definitions of roles, responsibilities, goals, and typical communication patterns for each persona. Includes core roles (Developers, Product Managers, Project Managers) and specialized roles (Risk Manager, Stakeholder Engagement Lead, Quality Assurance Lead, Change Champion).
+
+## Process Checklists & Templates
+
+The following checklists and templates provide practical tools for specialized roles to ensure comprehensive project management coverage:
+
+9. **[Risk Management Checklist](./risk-management-checklist.md)**  
+   Practical framework for identifying, assessing, tracking, and communicating risks. Includes risk assessment templates, mitigation planning, monitoring cadence, and escalation paths. **Use by**: Risk Manager in coordination with Project Manager.
+
+10. **[Stakeholder Engagement Plan](./stakeholder-engagement-plan.md)**  
+    Template for mapping stakeholders, planning communications, establishing feedback loops, and managing approvals. Includes stakeholder matrix, communication plan, and escalation points. **Use by**: Stakeholder Engagement Lead in coordination with Project Manager and Product Manager.
+
+11. **[Quality Assurance Checklist](./quality-assurance-checklist.md)**  
+    Comprehensive checklist for pre-release reviews, acceptance criteria verification, testing coverage, defect triage, and sign-off processes. Includes go/no-go decision templates. **Use by**: Quality Assurance Lead in coordination with Developers and Release Managers.
+
+12. **[Change Adoption Checklist](./change-adoption-checklist.md)**  
+    Framework for driving adoption of new processes, tools, or features. Includes readiness assessment, training plan, communications strategy, adoption metrics, and go/no-go criteria. **Use by**: Change Champion in coordination with Product Manager and Project Manager.
 
 ## Who This Is For
 
@@ -67,6 +83,9 @@ This README and the associated process documentation meet the following criteria
 - [x] Content aligns with existing process docs and contains no conflicting statements
 - [x] Links to all documentation files in the docs/ folder are included and functional
 - [x] Improves clarity and serves as a clear entry point for process documentation
+- [x] New specialized roles (Risk Manager, Stakeholder Engagement Lead, QA Lead, Change Champion) are defined with clear responsibilities and interaction patterns
+- [x] Process checklists provide actionable guidance for key project management functions
+- [x] Documentation maps roles to checklists to clarify who uses what
 - [ ] Proposed content has been reviewed with stakeholders (review needed)
 
 ## Proposing Updates
